@@ -5,3 +5,4 @@ ReSpeaker_Microphone_Array_Driver
 
 ### Version
 + 1.0.0.0 initial version
++ (20171017)1.0.0.0 signature certificate update
